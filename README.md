@@ -31,12 +31,12 @@ This repository includes a number of Jupyter Notebooks-based tutorials designed 
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb).
 
 ### Visualising NetCDF
-Links: [View on Github](./notebooks/visualising-netcdf.ipynb) | [Open in Colab](https://colab.research.google.com/github/eatlas/netcdf-python/blob/main/notebooks/visualising-netcdf.ipynb) 
+Links: [View on Github](./notebooks/visualising-netcdf.ipynb) | [Open in Colab](https://colab.research.google.com/github/eatlas/netcdf-python/blob/master/notebooks/visualising-netcdf.ipynb) 
 
 A notebook that introduces the reader to accessing a NetCDF file, retrieving metadata, and displaying data on a map.
 
 ### Regridding NetCDF
-Links: [View on Github](./notebooks/regrid-netcdf.ipynb) | [Open in Colab](https://colab.research.google.com/github/eatlas/netcdf-python/blob/main/notebooks/regrid-netcdf.ipynb)
+Links: [View on Github](./notebooks/regrid-netcdf.ipynb) | [Open in Colab](https://colab.research.google.com/github/eatlas/netcdf-python/blob/master/notebooks/regrid-netcdf.ipynb)
 
 A notebook that introduces non-rectilinear grids, and uses the [Regridding module](./regrid) from this repository to
 regrid a curvilinear grid to a rectilinear grid, displaying before and after data on maps.
